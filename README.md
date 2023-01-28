@@ -16,5 +16,7 @@
 
 <img src="https://ic.wampi.ru/2023/01/28/Second.jpg" alt="drawing" width="850"/>
 
+<img src="https://im.wampi.ru/2023/01/28/Third.jpg" alt="drawing" width="850"/>
+
 
 
