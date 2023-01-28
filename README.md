@@ -14,4 +14,7 @@
   
 <img src="https://ic.wampi.ru/2023/01/27/First.jpg" alt="drawing" width="850"/>
 
+<img src="https://ic.wampi.ru/2023/01/28/Second.jpg" alt="drawing" width="850"/>
+
+
 
