@@ -6,7 +6,10 @@
 ## ITMO.SoftwareEng2023.Web
 <a name="readme-top"></a>
 ### ИТМО 2023. Разработка Web-приложений на HTML5, JavaScript и CSS3
+
+<p align="center">
 <img src="https://ic.wampi.ru/2023/01/27/comb.jpg" alt="drawing" width="650"/>
+</p>
 
 ### Аннотация курса:
   * Язык разметки HTML5;
