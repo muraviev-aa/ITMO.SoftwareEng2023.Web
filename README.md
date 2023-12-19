@@ -8,7 +8,7 @@
 ### ИТМО 2023. Разработка Web-приложений на HTML5, JavaScript и CSS3
 
 <p align="center">
-<img src="https://ic.wampi.ru/2023/01/27/comb.jpg" alt="drawing" width="650"/>
+<img src="images/comb.png" alt="drawing" width="650"/>
 </p>
 
 ### Аннотация курса:
@@ -20,10 +20,10 @@
   * Обзор новых интегрированных и связанных API спецификации HTML5;
   * Bootstrap: адаптивная верстка Web-страниц.
   
-<img src="https://ic.wampi.ru/2023/01/27/First.jpg" alt="drawing" width="850"/>
+<img src="images/first.png" alt="drawing" width="850"/>
 
-<img src="https://ic.wampi.ru/2023/01/28/Second.jpg" alt="drawing" width="850"/>
+<img src="images/second.png" alt="drawing" width="850"/>
 
-<img src="https://im.wampi.ru/2023/01/28/Third.jpg" alt="drawing" width="850"/>
+<img src="images/third.png" alt="drawing" width="850"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
